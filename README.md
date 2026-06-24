@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Agrima 👋
 
-<!--
-**AgrimaBhatnagar/AgrimaBhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science graduate from IIT Madras focused on AI Systems, Recommendation Engines, RAG Applications, and Cloud Infrastructure.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SafeRecLLM
+Hybrid recommendation platform built using FastAPI, Docker, Kubernetes, and MovieLens.
+
+### Enterprise Automation Platform
+Infrastructure automation system using Terraform, Ansible, GCP, and GitHub Actions.
+
+### AI Learning Assistant
+RAG-powered educational platform with document QA, summarization, and personalized learning recommendations.
+
+## Skills
+
+Python • FastAPI • Docker • Kubernetes • Terraform • GCP • SQL • Machine Learning • RAG • LLMs • Redis • Flask
+
+## Currently Exploring
+
+- LLM Systems
+- Agentic AI
+- Retrieval Architectures
+- MLOps
+- Distributed ML Systems
