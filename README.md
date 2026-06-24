@@ -5,10 +5,10 @@ Data Science graduate from IIT Madras focused on AI Systems, Recommendation Engi
 ## Featured Projects
 
 ### SafeRecLLM
-Hybrid recommendation platform built using FastAPI, Docker, Kubernetes, and MovieLens.
+Hybrid recommendation platform serving personalized recommendations using FastAPI, Docker, Kubernetes, and MovieLens (100K+ ratings).
 
 ### Enterprise Automation Platform
-Infrastructure automation system using Terraform, Ansible, GCP, and GitHub Actions.
+Role-based cloud provisioning platform automating VM deployment using Terraform, Ansible, GCP, and GitHub Actions.
 
 ### AI Learning Assistant
 RAG-powered educational platform with document QA, summarization, and personalized learning recommendations.
