@@ -15,7 +15,15 @@ RAG-powered educational platform with document QA, summarization, and personaliz
 
 ## Skills
 
-Python • FastAPI • Docker • Kubernetes • Terraform • GCP • SQL • Machine Learning • RAG • LLMs • Redis • Flask
+💻 Languages: Python, Java, SQL, JavaScript, C, R
+
+⚙️ Backend: FastAPI, Flask, REST APIs, Redis, Celery
+
+🤖 AI/ML: PyTorch, Transformers, Hugging Face, RAG, LoRA/QLoRA, XGBoost, Recommendation Systems
+
+☁️ Cloud & Infra: Docker, Kubernetes, GCP, AWS, Terraform, Ansible
+
+📊 MLOps: MLflow, Prometheus, GitHub Actions, CI/CD, Monitoring
 
 ## Currently Exploring
 
