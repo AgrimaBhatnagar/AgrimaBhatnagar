@@ -148,4 +148,4 @@ MLflow · Prometheus · GitHub Actions · CI/CD
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/agrima-bhatnagar-993764197/) · [Email](bhatnagar.agrima25@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/agrima-bhatnagar-993764197/) · [Email](Agrima Bhatnagar <bhatnagar.agrima25@gmail.com>)
